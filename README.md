@@ -35,6 +35,8 @@ dothereum --chain alpha
   ```bash
   ./scripts/init.sh
   ```
+2.a) install libssl-dev in Ubuntu or openssl-devel in fedora
+
 3. Ensure Cargo is in your `$PATH`:
   ```bash
   export PATH=$PATH:$HOME/.cargo/bin
