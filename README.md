@@ -38,8 +38,9 @@ dothereum --chain alpha
 2.a) install libssl-dev in Ubuntu or openssl-devel in fedora
 for avoiding trouble with ubuntu, i suggest 
   ```bash
-sudo apt-get install clang* as well
+sudo apt-get install clang* 
   ```
+as well
 
 3. Ensure Cargo is in your `$PATH`:
   ```bash
