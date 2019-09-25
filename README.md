@@ -38,7 +38,7 @@ dothereum --chain alpha
 2.a) install libssl-dev in Ubuntu or openssl-devel in fedora
 for avoiding trouble with ubuntu, i suggest 
   ```bash
-sudo apt-get install clang* 
+sudo apt-get install clang* pkg-config
   ```
 as well
 
